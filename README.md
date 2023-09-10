@@ -28,7 +28,7 @@ Foi mapeado também, as possibilidades de resultado, usando o if, if else e else
   <br>
 <h2>EXPERIÊNCIA:</h2>
 <br> 
-<p> ◉ O intuito do jogo, além de diversão, é mapear as possibilidade de resultado e mostrá-lo acima da pontuação de cada jogador.  </p>
+<p> ◉ O intuito do jogo, além de diversão, é mapear as possibilidades de resultado e mostrá-lo acima quem venceu ou se deu empate e abaixo a pontuação de cada jogador.  </p>
 
 
 
