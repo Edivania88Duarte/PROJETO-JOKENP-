@@ -24,7 +24,7 @@ Foi mapeado também, as possibilidades de resultado, usando o if, if else e else
 <br>
 <h2>INFORMAÇÕES:</h2>
 <br>
-<p> ◉ Desenvolvi o projeto com as tecnologias <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, possibilitando ao jogador, escolher pedra, papel ou tesoura, da mesma forma que máquina e de acordo com o resultado de cada um, de acordo com a lógica do jogo, é apresentado que foi o vencedor da rodada ou se deu empate. O embate não conta para a pontuação e quem pontuar mais, vence a partida!
+<p> ◉ Desenvolvi o projeto com as tecnologias <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, possibilitando ao jogador, escolher pedra, papel ou tesoura, da mesma forma que a máquina e de acordo com o resultado de cada um, é apresentado quem foi o vencedor da rodada ou se deu empate. O empate não conta para a pontuação e quem pontuar mais, vence a partida!
   <br>
 <h2>EXPERIÊNCIA:</h2>
 <br> 
